@@ -4,9 +4,17 @@ Mobile starter Kit
 UI Component
 --------------------------------
 
+
 ###Button		
 		
 		<a id='doneBtn' class='button right' data-direction='reverse' data-ajax='true' data-transition='slide'><span>Done</span></a>
+
+
+Types Of buttons
+* Blue
+* Red
+* White
+* Call
 
 Demo
 
