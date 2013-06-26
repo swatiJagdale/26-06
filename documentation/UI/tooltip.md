@@ -1,13 +1,13 @@
-Styling for elements
+Mobile Starter Kit
 ================================
 
-textbox
+UI Components
 --------------------------------
 
 		
-		
-		*[demo] (http://github.github.com/accordion.html).*  
-		
+###Tooltip		
+	
+	
 		<div class='tooltip'>
 				<a class='icon'></a>	  
 				<div>
@@ -45,3 +45,6 @@ textbox
 			$('.tooltip div').css('display','none');
 			$('.tooltip .icon.active').removeClass('active');
 		});
+		
+		
+*[back] (https://github.com/swatiJagdale/26-06/blob/master/documentation/UI/UI_overview.md)* 
