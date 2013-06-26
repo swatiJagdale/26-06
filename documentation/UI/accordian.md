@@ -1,9 +1,10 @@
-Styling for elements
+Mobile starter Kit
 ================================
 
-Accordion
+UI components
 --------------------------------
 
+###Accordion
 		<div class="accordion">
 				<dl>
 					<dt>
