@@ -1,10 +1,10 @@
-Styling for elements
+Mobile Starter Kit
 ================================
 
-Font
+UI Components
 --------------------------------
 
-		
+###Font		
 		
 		
 		
