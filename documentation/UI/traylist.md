@@ -1,13 +1,10 @@
-Styling for elements
+Mobile starter Kit
 ================================
 
-textbox
+UI Components
 --------------------------------
 
-		<input type="text" placeholder="Driver's name" data-offset="none"/>
-		
-		*[demo] (http://github.github.com/accordion.html).*  
-		
+###Traylist
 		
 		    <div class='banner'>
 			<nav class="contentLink">
