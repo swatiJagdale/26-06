@@ -1,8 +1,11 @@
-Styling for elements
+Mobile starter Kit
 ================================
 
-textbox
+UI components
 --------------------------------
+
+###Textbox
+
 
 	
 		*[demo] (http://github.github.com/accordion.html).*  
