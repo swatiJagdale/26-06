@@ -147,7 +147,7 @@ Demo
 
 ![alt text][Demo]
 
-[Demo]: https://github.com/swatiJagdale/26-06/blob/master/documentation/screenshots/SC20130624-145401.png "Logo Title Text 2"
+[Demo]: ./screenshots/SC20130624-145401.png "Logo Title Text 2"
 
 
 *[back] (UI_overview.md)* 
