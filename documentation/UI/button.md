@@ -11,10 +11,10 @@ UI Component
 
 
 Types Of buttons
-* [Blue] (blue_button.md)
-* [Red] (red_button.md)
-* [White] (white_button.md)
-* [Call] (calll_button.md)
+* [Blue] (buttons/blue_button.md)
+* [Red] (buttons/red_button.md)
+* [White] (buttons/white_button.md)
+* [Call] (buttons/call_button.md)
 
 Demo
 
