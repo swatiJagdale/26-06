@@ -6,7 +6,7 @@ UI Components
 
 ###Map
 
-		<input type="text" placeholder="Driver's name" data-offset="none"/>
+	
 
 
 Demo
