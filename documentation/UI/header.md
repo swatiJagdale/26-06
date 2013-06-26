@@ -1,8 +1,10 @@
-Styling for elements
+Mobile Starter Kit
 ================================
 
-textbox
+UI Component
 --------------------------------
+
+###Header
 
 		
 		*[demo] (http://github.github.com/accordion.html).*  
@@ -12,3 +14,5 @@ textbox
 			<h1>Auto Accident</h1>
 			<a id='doneBtn' class='button right' data-direction='reverse' data-ajax='true' data-transition='slide'><span>Done</span></a>
 		</header>
+		
+*[back] (https://github.com/swatiJagdale/26-06/blob/master/documentation/UI/UI_overview.md)*  
