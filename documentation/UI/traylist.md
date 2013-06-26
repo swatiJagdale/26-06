@@ -147,7 +147,7 @@ Demo
 
 ![alt text][Demo]
 
-[Demo]: ./screenshots/SC20130624-145401.png "Logo Title Text 2"
+[Demo]: screenshots/SC20130624-145401.png "Logo Title Text 2"
 
 
 *[back] (UI_overview.md)* 
