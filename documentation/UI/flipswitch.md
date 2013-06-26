@@ -1,8 +1,10 @@
-Styling for elements
+Mobile Starter Kit
 ================================
 
-Flipswitch
+UI Components
 --------------------------------
+
+###Flipswitch
 
 		<div class="slider floatRight">
 						<input id="toggle" type="checkbox" checked="checked">
@@ -14,3 +16,6 @@ Flipswitch
 							<div class="sliderBar"></div>
 						</label>
 		</div>
+		
+		
+*[back] (https://github.com/swatiJagdale/26-06/blob/master/documentation/UI/UI_overview.md)*  
