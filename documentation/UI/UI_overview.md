@@ -10,7 +10,7 @@ UI Components contains following components
 *[flipswitch] (https://github.com/swatiJagdale/26-06/blob/master/documentation/UI/flipswitch.md)*  
 *[font] (https://github.com/swatiJagdale/26-06/blob/master/documentation/UI/font.md)*  
 *[footer] (https://github.com/swatiJagdale/26-06/blob/master/documentation/UI/footer.md)*  
-*[textinput] (https://github.com/swatiJagdale/26-06/blob/master/documentation/UI/textinput.md)*  
+*[textinput] (https://github.com/swatiJagdale/26-06/blob/master/documentation/UI/textbox.md)*  
 *[header] (https://github.com/swatiJagdale/26-06/blob/master/documentation/UI/header.md)*  
 *[maps] (https://github.com/swatiJagdale/26-06/blob/master/documentation/UI/maps.md)*  
 *[popup] (https://github.com/swatiJagdale/26-06/blob/master/documentation/UI/popup.md)*  
