@@ -32,10 +32,11 @@ UI components
 
 Demo
 
+![alt text] [Demo]
+[Demo]: ../screenshots/accordian.png "Demo"   
 
-![alt text][Demo]
-
-[Demo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+![alt text] [Demo]
+[Demo]: ../screenshots/accordian.png "Demo"
 
 		
 *[back] (UI_overview.md)*  
