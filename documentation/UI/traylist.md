@@ -147,7 +147,7 @@ Demo
 
 ![alt text][Demo]
 
-[Demo]: ../screenshots/SC20130624-145401.png "Demo"
+[Demo]: ../screenshots/traylist.png "Demo"
 
 
 *[back] (UI_overview.md)* 
